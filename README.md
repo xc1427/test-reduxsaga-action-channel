@@ -1,5 +1,5 @@
 ## Demo
-有两个 watcher，一个是普通的 watcher，拿到 action 后就打印，作为产兆
+有两个 watcher，一个是普通的 watcher，拿到 action 后就打印，作为参照
 
 一个是利用了 actionChannel 的 watcher
 - 消息会被缓存
